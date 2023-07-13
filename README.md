@@ -2,9 +2,6 @@
 
 ### 한국 유적지 지도 프로젝트
 
- <img src="https://img.shields.io/badge/파이썬-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/스트림릿-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/엑셀-217346?style=flat&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/주피터-F37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/파이참-000000?style=flat&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/인스타그램-E4405F?style=flat&logo=instagram&logoColor=white"/>
-
-
 ▶️ 분석 주제
 KCISA(한국문화정보원)의 '국내 지역별 유적지 데이터'를 기반으로 해당 유적지의 SNS 태그 수와 공간정보를 함께 분석하였습니다.
 
@@ -24,3 +21,4 @@ KCISA(한국문화정보원)의 '국내 지역별 유적지 데이터'를 기반
 - 과거 관광객 통계 정보를 추가하고 지속적으로 안정적인 해시태그 데이터를 수집하여 시계열 분석을 지원할 수 있습니다.
 - 단순히 행정기관의 유적지 관리 기능뿐만 아니라 유적지 주변 소상공인, 관광사, 공원 운영사 등의 마케팅 정보로 활용될 수 있습니다.
 
+ <img src="https://img.shields.io/badge/파이썬-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/스트림릿-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/엑셀-217346?style=flat&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/주피터-F37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/파이참-000000?style=flat&logo=pycharm&logoColor=white"/> <img src="https://img.shields.io/badge/인스타그램-E4405F?style=flat&logo=instagram&logoColor=white"/>
